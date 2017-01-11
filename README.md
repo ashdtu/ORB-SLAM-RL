@@ -1,4 +1,4 @@
-Modified version of ORB-SLAM: 
+Modified version of ORB-SLAM, NOTE: ADD extracted Vocabulary file from original repository to Main Directory and build. 
 
 Including a sensor_msgs/PointCloud2 Publisher
 
